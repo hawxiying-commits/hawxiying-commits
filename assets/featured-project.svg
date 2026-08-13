@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 170" role="img" aria-labelledby="title desc">
+  <title id="title">目前代表作品</title>
+  <desc id="desc">Cinematic Lyrics MV 作品區標題</desc>
+  <rect width="1200" height="170" rx="16" fill="#0a0a0c"/>
+  <path d="M0 0h250l-76 170H0Z" fill="#d90a2d"/>
+  <path d="M210 0h48l-76 170h-48Z" fill="#ff3653" opacity="0.6"/>
+  <text x="48" y="73" fill="#fff" font-family="Helvetica Neue, Arial, sans-serif" font-size="18" letter-spacing="5">NOW SHOWING</text>
+  <text x="48" y="115" fill="#fff" font-family="PingFang TC, Noto Sans TC, sans-serif" font-size="25" font-weight="700">目前代表作品</text>
+  <text x="302" y="79" fill="#fff7f2" font-family="Helvetica Neue, Arial, sans-serif" font-size="42" font-weight="700" letter-spacing="1">CINEMATIC LYRICS MV</text>
+  <text x="304" y="119" fill="#c8bfc1" font-family="PingFang TC, Noto Sans TC, sans-serif" font-size="22">電影感 · 音訊反應式 · 動態歌詞</text>
+  <circle cx="1117" cy="85" r="32" fill="#d90a2d"/>
+  <path d="M1108 68l25 17-25 17Z" fill="#fff"/>
+</svg>
